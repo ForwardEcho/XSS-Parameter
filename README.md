@@ -13,4 +13,3 @@ XSS Parameters are input fields or query parameters in web applications that are
 | Payload
 | -----------------
 | <script>alert(1)</script>
-| ><img src=# onerror='alert(1)'>
